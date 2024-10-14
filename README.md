@@ -1,5 +1,5 @@
 # Undertale C++
-🎮 Undertale boss battle made for practicing and understanding game mechanics purposes. Coded using only the QGraphics tools and C++ with 0 previous knowledge of the subject LOL.
+🎮 Undertale boss battle made for practicing and understanding game mechanics purposes. Coded using only the QGraphics tools and C++ with 0 previous knowledge of game dev LOL.
 
 ## Game live images
 ![image](https://github.com/user-attachments/assets/087aea51-7e8b-455c-95ad-5092e3e0c65f)
