@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/sprites/sans">
+        <file>sansspirte.png</file>
+    </qresource>
+</RCC>
