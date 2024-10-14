@@ -29,7 +29,6 @@ Even with the use of pure C++ coding, i was able to create some cool features li
 ### Object classes:
   * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/bone.cpp">    bone.cpp</href>
   * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/bone.h">      bone.h</href>
-  
   * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/heart.cpp">   heart.cpp</href>
   * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/heart.h">     heart.h</href>
 
