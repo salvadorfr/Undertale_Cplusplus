@@ -21,3 +21,20 @@ Even with the use of pure C++ coding, i was able to create some cool features li
   * Managing game run time events.
   * Game over screen.
   * Scoring system.
+
+## Project structure
+### Main class:
+  * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/widget.cpp">  widget.cpp</href>
+  * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/widget.h">    widget.h</href>
+### Object classes:
+  * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/bone.cpp">    bone.cpp</href>
+  * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/bone.h">      bone.h</href>
+  
+  * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/heart.cpp">   heart.cpp</href>
+  * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/heart.h">     heart.h</href>
+
+### Functionality classes
+  * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/matrix.cpp">    matrix.cpp</href>
+  * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/matrix.h">      matrix.h</href>
+  * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/mapping.cpp">    mapping.cpp</href>
+  * <a href="https://github.com/salvadorfr/Undertale-Cplusplus/blob/main/mapping.h">      mapping.h</href>
