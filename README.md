@@ -1,9 +1,18 @@
 # Undertale C++
 🎮 Recreation of an Undertale boss battle for practice with game mechanics. Coded using only QGraphics tools and C++ with zero prior game development experience!
 
-## Game live images
-![image](https://github.com/user-attachments/assets/087aea51-7e8b-455c-95ad-5092e3e0c65f)
-![image](https://github.com/user-attachments/assets/86ce7974-cd19-41f8-834a-810facfbedc7)
+## Game images
+Gameplay:<br>
+![1](https://github.com/user-attachments/assets/4c8e9454-4b99-4bc9-9228-87135e5b051d)
+
+Death screen:<br>
+![2](https://github.com/user-attachments/assets/acb83a0c-6984-44fb-9a74-91fb9de84edf)
+
+Hitboxes:<br>
+![3](https://github.com/user-attachments/assets/5ab95f22-43df-474f-a44d-4b7b52abaf88)
+
+Hurt animation and short period immunity: <br>
+![4](https://github.com/user-attachments/assets/5bf8bd1d-b570-413e-ab32-2d1fb4896a20)
 
 ## Project overview
 This project was inspired by my curiosity about how video games work. I aimed to recreate the Undertale Sans boss fight as closely as possible using only:
