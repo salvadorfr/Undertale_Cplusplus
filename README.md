@@ -1,5 +1,5 @@
 # Undertale C++
-🎮 Recreation of an Undertale boss battle for practice with game mechanics. Coded using only QGraphics tools and C++—with zero prior game development experience!
+🎮 Recreation of an Undertale boss battle for practice with game mechanics. Coded using only QGraphics tools and C++ with zero prior game development experience!
 
 ## Game live images
 ![image](https://github.com/user-attachments/assets/087aea51-7e8b-455c-95ad-5092e3e0c65f)
